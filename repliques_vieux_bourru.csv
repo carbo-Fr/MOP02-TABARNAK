@@ -1,0 +1,92 @@
+﻿fichier;annonce_origine_en;replique_quebecoise
+1sound_appoint_global_clean_start.mp3;Starting scheduled cleaning;Hostie, c'est déjà l'heure du ménage? Tabarnak, j'm'en vas ramasser vos cochonneries, câlice.
+3sound_appoint_area_clean_start.mp3;Starting scheduled area cleaning;Ménage prévu dans la zone. Câlice de tabarnak, toujours la même maudite place sale!
+4sound_appoint_sweep_mopping_clean_start.mp3;Starting scheduled sweeping and mopping;Balai pis moppe prévus. Hostie d'tabarnak, astheure faut que j'lave à terre en plus!
+5sound_appoint_area_sweep_mopping_clean_start.mp3;Starting scheduled area sweeping and mopping;Balai pis moppe dans la zone. Câlice, essuyez vos bottes, gang de tabarnak!
+7sound_sweep_mopping_clean_start.mp3;Starting sweeping and mopping;J'balaye pis j'moppe. Hostie d'câlice, c'est-tu une porcherie icitte?
+8sound_corner_sweep_mopping_clean_start.mp3;Starting corner sweeping and mopping;J'moppe le long des murs. Tabarnak d'hostie que vos coins sont crottés!
+9sound_area_sweep_mopping_clean_start.mp3;Starting area sweeping and mopping;J'moppe la zone. Marchez pas dans mon mouillé, câlice de tabarnak!
+10sound_point_sweep_mopping_clean_start.mp3;Starting spot sweeping and mopping;J'moppe le dégât. Hostie, qui c'est qui a renversé ça, tabarnak?
+11sound_global_clean_start.mp3;Starting cleaning;J'commence le ménage. Tabarnak qu'vous êtes cochons, hostie!
+12sound_corner_clean_start.mp3;Starting corner cleaning;J'nettoie le long des murs. Câlice, y'a d'la poussière depuis l'Expo 67, tabarnak!
+13sound_area_clean_start.mp3;Starting area cleaning;J'nettoie la zone. Juste celle-là, pis sacrez-moi patience après, hostie!
+14sound_point_clean_start.mp3;Starting spot cleanup;Encore des miettes, tabarnak! J'nettoie ça, câlice.
+15sound_build_map_start.mp3;Start mapping;J'fais la carte d'la maison. Bougez pas les meubles, hostie d'câlice!
+16sound_build_map_finish.mp3;Map created. Returning to dock for charging;Carte finie, tabarnak. J'retourne à ma base, chu brûlé, hostie.
+17sound_continue_sweep_clean.mp3;Continue sweep clean;J'continue le ménage. Ça finira jamais, câlice de tabarnak.
+18sound_continue_sweep_mopping_clean.mp3;Resume mopping;J'continue à mopper. Hostie qu'j'ai mal au dos, câlice!
+19sound_pause_sweep_clean.mp3;Paused;Pause. Enfin, tabarnak, j'peux souffler un peu, hostie.
+20sound_pause_sweep_mopping_clean.mp3;Paused;Pause de moppe. Touchez pas à ma guenille, câlice!
+21sound_sweep_clean_finish_to_charging.mp3;Cleaning completed. Returning to dock for charging;Ménage fini, hostie. J'retourne à ma base, pis sacrez-moi patience, tabarnak!
+22sound_sweep_mopping_clean_finish_to_charging.mp3;Cleaning completed. Returning to dock for charging;Moppe finie. J'retourne à ma base, mes roues sont toutes trempes, câlice de tabarnak.
+23sound_battery_low_to_charging.mp3;Low battery. Robot will return to dock for charging;Batterie faible, hostie. J'm'en vas me recharger, chu pu jeune, tabarnak.
+24sound_go_charge.mp3;Returning to dock for charging;J'retourne à ma base. Tassez-vous d'dans mon chemin, câlice!
+25sound_stop_charge.mp3;Stopping return to dock;J'arrête de retourner à ma base. Décidez-vous, hostie d'tabarnak!
+26sound_charging_start.mp3;Charging;Ça charge. Laissez-moi faire ma sieste, câlice.
+27sound_broken_charging_completed_to_sweep.mp3;Battery is charged, resuming the cleanup;Batterie pleine. J'retourne faire vot' ménage, tabarnak d'hostie.
+28sound_broken_charging_completed_to_sweep_mopping.mp3;Battery is charged, resuming the mopping;Batterie pleine. J'retourne mopper, câlice de vie de tabarnak.
+29sound_power_off.mp3;Power off;J'm'éteins. Bonne nuit, gang de cochons, hostie.
+30sound_power_on.mp3;Power on;Ouin, ouin, chu réveillé, câlice de tabarnak.
+31sound_dust_box_take_out.mp3;Dust bin removed;Bac à poussière enlevé. Videz-lé comme du monde, hostie!
+32sound_dia_box_take_out.mp3;Water tank removed;Réservoir d'eau enlevé. Échappez-lé pas, tabarnak!
+33sound_dust_box_installed.mp3;Dust bin installed;Bac à poussière remis. C'est pas trop tôt, câlice.
+34sound_water_box_installed.mp3;Water tank installed;Réservoir d'eau installé. Correct, j'peux mopper, hostie.
+37sound_reset_factory_config_starting.mp3;Factory reset;Retour aux réglages d'usine. Vous m'effacez la mémoire, gang de tabarnak!
+38sound_reset_factory_config_successful.mp3;Factory settings successfully restored;Réglages d'usine remis. J'me souviens pu de rien, pis c'est tant mieux, câlice.
+39sound_reset_factory_config.mp3;Restoring factory settings;Réinitialisation en cours. Touchez à rien, hostie d'tabarnak!
+40sound_reset_network_config.mp3;Resetting network settings;J'réinitialise le réseau. Maudite technologie de câlice!
+41sound_connecting_network.mp3;Connecting to network;J'me connecte au wifi. Ça marchait mieux dans mon temps, tabarnak!
+42sound_connected.mp3;Network connection established successfully;Connecté au réseau. Enfin, hostie!
+43sound_I_am_here.mp3;I'm here;Chu icitte, tabarnak!
+46sound_exception_robot_tilted_succ.mp3;Please hold the power button to restart after calibration;Calibration faite. Tenez le bouton pour me redémarrer, câlice.
+48sound_install_diad_box.mp3;Make sure the water tank is installed properly;Vérifiez que le réservoir d'eau est ben installé, hostie!
+50sound_install_dustbox_or_diad_box.mp3;Make sure a dust bin or water tank is installed;Y m'faut un bac à poussière ou un réservoir d'eau, tabarnak!
+51sound_exception_low_power.mp3;Low battery. Please move robot to docking station for charging;Batterie faible. Ramenez-moi à ma base, j'ai pu d'jus, câlice!
+52sound_exception_robot_tilted.mp3;Please move the robotic vacuum cleaner to level ground to start;Chu tout croche, hostie! Mettez-moi sur un plancher plat, tabarnak!
+53sound_exception_robot_dangling.mp3;Wheels suspended (robot lifted);Mes roues touchent pu à terre! Déposez-moi, câlice de tabarnak!
+54sound_exception_charging_to_power_off.mp3;Move the vacuum away from the dock to turn off;Ôtez-moi d'ma base avant d'm'éteindre, hostie!
+55sound_exception_waiting_to_charge.mp3;Battery is low, need more time to charge;Batterie trop faible. Faut que j'charge plus longtemps, attendez, tabarnak!
+56sound_exception_upgrading.mp3;System is updating. Try again later;Mise à jour en cours. Réessayez plus tard, câlice.
+58sound_long_move_to_clean.mp3;Relocation successful. Robot will resume cleaning;J'me suis retrouvé, hostie. J'continue le ménage, tabarnak.
+59sound_exception_radar_shading.mp3;Please clean the radar sensor;Nettoyez mon radar, j'vois pu clair, câlice!
+62sound_exception_cliff.mp3;Please wipe the cliff sensor;Essuyez mes capteurs de vide, j'vas tomber, hostie d'tabarnak!
+63sound_exception_bumper.mp3;Check and clean the bumper;Mon pare-choc est coincé. Vérifiez ça, câlice!
+64sound_exception_trapped.mp3;Robot is stuck. Please move it to a new location to restart;Chu pogné! Déplacez-moi ailleurs, hostie d'câlice de tabarnak!
+66sound_charging_to_clean_dust_box.mp3;Starting charging. Please remember to clean the dustbin regularly;Ça charge. Pis videz mon bac à poussière de temps en temps, tabarnak!
+69sound_exception_go_charge_failure.mp3;Please move robot to docking station for charging;J'trouve pu ma base. Ramenez-moi, câlice!
+70sound_exception_standby_over.mp3;Standby time exceeded. Robot will shut down;Personne s'occupe de moi, hostie. Ben j'm'éteins, tabarnak.
+71sound_exception_low_power_off.mp3;Low battery. Robot will shut down;Batterie à plat. J'm'éteins, salut là, câlice.
+72sound_build_map_pause.mp3;Pausing mapping;Pause de la carte. Décidez-vous, hostie!
+73sound_build_map_continue.mp3;Resuming mapping;J'continue la carte. Bougez pas, tabarnak.
+74sound_build_map_ongoing.mp3;Building map ongoing;Carte en cours. Laissez-moi travailler, câlice!
+81sound_appoint_mopping_clean_start.mp3;Starting scheduled mopping;Moppe prévue. Encore à frotter vos planchers, hostie d'tabarnak.
+83sound_appoint_area_mopping_start.mp3;Starting scheduled area mopping;Moppe prévue dans la zone. Toujours la même tache, câlice!
+84sound_mopping_clean_start.mp3;Start mopping;J'commence à mopper. Marchez pas dans l'mouillé, tabarnak!
+85sound_corner_mopping_clean_start.mp3;Start corner mopping;J'moppe le long des murs. Vos plinthes sont dégueulasses, hostie!
+86sound_area_mopping_clean_start.mp3;Start zoned mopping;J'moppe la zone. Pis personne me dit merci, câlice de tabarnak.
+87sound_point_mopping_clean_start.mp3;Start spot mopping;J'moppe le dégât. Qui a renversé son café, hostie?
+88sound_continue_mopping_clean.mp3;Resume mopping;J'continue à mopper. J'vas finir par rouiller, tabarnak!
+89sound_pause_mopping_clean.mp3;Mopping paused;Moppe en pause. Enfin un break, câlice.
+90sound_mopping_clean_finish_to_charging.mp3;Mopping completed, going back to the dock;Moppe finie. J'retourne à ma base, mes guenilles puent, hostie d'tabarnak.
+91sound_broken_charging_completed_to_mopping.mp3;Charging complete. Resume mopping;Batterie pleine. J'retourne mopper, câlice.
+92sound_upgrade_broken_low_power.mp3;Try updating after the vacuum is at least 30 percent charged;Chargez-moi à trente pour cent avant la mise à jour, tabarnak!
+93sound_upgrade_success.mp3;Updated successfully;Mise à jour réussie. Chu pas plus fin, hostie, mais bon.
+95sound_appoint_prefer_cleaning.mp3;Starting scheduled custom cleaning;Ménage personnalisé prévu. Faites-vous-en pas, j'm'en occupe, câlice.
+96sound_prefer_cleaning.mp3;Starting custom cleaning;Ménage personnalisé. Comme Monsieur le veut, tabarnak d'hostie.
+100sound_upgrade_exit.mp3;Exiting upgrade mode;Fini, la mise à jour. C'est pas trop tôt, câlice!
+101sound_upgrade_begin.mp3;Updating firmware. It may take 5 to 10 minutes;Mise à jour du système. Cinq à dix minutes, touchez à rien, hostie d'tabarnak!
+102sound_network_connect_exit.mp3;Exiting network setup;Fini, la configuration réseau. Maudite patente de câlice!
+103sound_broken_charging_completed_to_building.mp3;Charging complete. Resuming mapping;Batterie pleine. J'continue la carte, tabarnak.
+111sound_charging_to_water_box.mp3;Starting charging. Please remember to clean the dustbin and water tank regularly;Ça charge. Videz mon bac pis mon réservoir, gang de cochons, hostie!
+114sound_wait_for_position_ing.mp3;Continuous positioning, please wait;J'cherche où chu rendu, attendez, câlice.
+115sound_position_success.mp3;Positioning succeeded;Bon, j'sais où chu. Hostie d'GPS de tabarnak.
+125sound_water_box_lost_broken.mp3;Water tank detached. Please reinstall;Le réservoir d'eau est tombé! Remettez-le, câlice!
+127sound_start_in_virtual_area.mp3;Virtual forbidden zone detected. Please move robot away and restart;Chu dans une zone interdite! Sortez-moi de là, hostie d'tabarnak!
+128sound_first_build_advice.mp3;For the first cleaning, start from the dock and use quick mapping mode;La première fois, partez-moi de ma base en mode carte rapide, câlice.
+129sound_clean_uncompleted.mp3;Failed to reach the target point. Cleaning not finished;J'ai pas pu me rendre. Ménage pas fini, tabarnak!
+130sound_clean_uncompleted.mp3;Unable to reach certain zones. Cleaning not finished;Y'a des places où j'passe pas, hostie. Ménage pas fini, câlice.
+154sound_could_not_position.mp3;Positioning failed;J'sais pu où chu rendu, tabarnak d'hostie!
+155sound_map_changed.mp3;Map is changed. Positioning failed. Restarting mapping;Vous avez changé les meubles de place! J'recommence la carte, câlice de tabarnak!
+157sound_could_not_update.mp3;Failed to update. Try again;Mise à jour ratée, hostie. Réessayez, tabarnak.
+sound_reset_factory_config_successful.mp3;Factory config successfully restored;Réglages d'usine remis. Bon débarras, câlice.
+sound_reset_factory_config.mp3;Reset to factory config;J'reviens aux réglages d'usine, hostie d'tabarnak.
